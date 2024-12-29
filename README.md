@@ -52,7 +52,7 @@ The AD Algo - Video Processor application is a Python-based GUI tool developed b
 2. Ensure FFmpeg is installed and added to the system's PATH.
 3. Run the script:
    ```
-   python video_processor.py
+   AD Algo.py
    ```
 
 ## Files
