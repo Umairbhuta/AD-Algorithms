@@ -91,7 +91,7 @@ heading.pack(fill=tk.X)
 
 frame1 = tk.Frame(root, bg="#282c34")
 frame1.pack(pady=10, fill=tk.X)
-video_label = tk.Label(frame1, text="Video File:", font=("Arial", 12), bg="#282c34", fg="white")
+video_label = tk.Label(frame1, text="Video File:", font=("verdana", 12), bg="#282c34", fg="white")
 video_label.pack(side=tk.LEFT, padx=10)
 video_path = tk.Entry(frame1, font=("Arial", 12), width=40)
 video_path.pack(side=tk.LEFT, padx=10)
